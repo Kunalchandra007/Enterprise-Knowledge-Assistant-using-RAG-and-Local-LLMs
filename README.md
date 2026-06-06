@@ -4,16 +4,8 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit)](https://github.com/pre-commit/pre-commit)
 [![Code style: Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 
-Check out the todo list to see the next steps and improvements we want to implement in this project [here](notes/todo.md).
-
 > [!IMPORTANT]
-> Disclaimer:
-> The code has been tested on:
->   * `Ubuntu 22.04.2 LTS` running on a Lenovo Legion 5 Pro with twenty `12th Gen Intel® Core™ i7-12700H` and
-      an `NVIDIA GeForce RTX 3060`.
->   * `MacOS Sonoma 14.3.1` running on a MacBook Pro M1 (2020).
->
-> If you are using another Operating System or different hardware, and you can't load the models, please
+> If you are using a different Operating System or hardware, and you can't load the models, please
 > take a look at the official llama.cpp's GitHub [issue](https://github.com/ggml-org/llama.cpp/issues).
 
 > [!WARNING]
